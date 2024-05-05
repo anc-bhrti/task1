@@ -1,0 +1,21 @@
+nav{
+    margin-left: auto;
+}
+#firstnav{
+    margin-left: 500px;
+}
+nav li{
+    text-align: center;
+    font-size: large;
+    margin-left: 60px;
+}
+img{
+    margin: 0px 25px 60px 80px;
+    float: left;
+}
+
+.content{
+    margin: 60px 70px 0px 450px ;
+}
+
+
